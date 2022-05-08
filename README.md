@@ -11,7 +11,7 @@
 - 📫 How to reach me: <a href="mailto:Abhijeetkr.sci@gmail.com">email</a>, <a href="http://linkedin.com/in/abhijeet-kumar-559058211/">LinkedIn</a></br>
 
 #
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Abhijeetbyte&show_icons=true&hide=stars) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Abhijeetbyte&show_icons=true&hide=stars&layout=compact) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijeetbyte&layout=compact)](https://github.com/Abhijeetbyte/github-readme-stats)
 
 
   
