@@ -15,7 +15,7 @@
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Abhijeetbyte&show_icons=true)
        
 ## Most Used Languages
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijeetbyte&theme=blue-green)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijeetbyte)
 
 
   
