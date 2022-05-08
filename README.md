@@ -10,12 +10,8 @@
 - 💬 Ask me about, [here](https://github.com/Abhijeetbyte/Abhijeetbyte/discussions/1)
 - 📫 How to reach me: <a href="mailto:Abhijeetkr.sci@gmail.com">email</a>, <a href="http://linkedin.com/in/abhijeet-kumar-559058211/">LinkedIn</a></br>
 
-
-## GitHub Stats
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Abhijeetbyte&show_icons=true)
-       
-## Most Used Languages
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijeetbyte)
+#
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Abhijeetbyte&show_icons=true&hide=stars) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
   
