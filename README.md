@@ -2,15 +2,21 @@
 
 <!--
 **Abhijeetbyte/Abhijeetbyte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+- 🔭 I'm currently working on various things
+- 🌱 I’m currently learning a lot of new things on Github.
+- 👯 I’m looking to collaborate on projects
+- 💬 Ask me about, [here](https://github.com/Abhijeetbyte/Abhijeetbyte/discussions/1)
+- 📫 How to reach me: <a href="mailto:Abhijeetkr.sci@gmail.com">email</a>, <a href="http://linkedin.com/in/abhijeet-kumar-559058211/">LinkedIn</a></br>
+
+
+## GitHub Stats
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Abhijeetbyte&show_icons=true)
+       
+## Most Used Languages
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijeetbyte&theme=blue-green)
+
+
+  
+  
