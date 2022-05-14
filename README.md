@@ -5,7 +5,7 @@
 -->
 
 - 🔭 I'm currently working on various things
-- 🌱 I’m currently learning a lot of new things on Github.
+- 🌱 I’m currently learning lot of new things on Github
 - 👯 I’m looking to collaborate on projects
 - 📫 How to reach me: <a href="mailto:Abhijeetkr.sci@gmail.com">Email</a>, <a href="http://linkedin.com/in/abhijeet-kumar-559058211/" target="_blank">LinkedIn</a></br>
 
