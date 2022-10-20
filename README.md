@@ -1,10 +1,11 @@
 ### Hi there 👋
+:octocat: :computer: :rocket: ⚛️ :microscope: :telescope: 
 
 <!--
 **Abhijeetbyte/Abhijeetbyte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I'm currently working on various things
+- 🔭 I'm currently working on something cool!
 - 🌱 I’m currently learning lot of new things on Github
 - 👯 I’m looking to collaborate on projects
 - 📫 How to reach me: <a href="mailto:Abhijeetkr.sci@gmail.com">Email</a>, <a href="http://linkedin.com/in/abhijeet-kumar-559058211/" target="_blank">LinkedIn</a></br>
