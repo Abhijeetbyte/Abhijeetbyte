@@ -8,7 +8,7 @@
 - 🔭 I'm currently working on something cool!
 - 🌱 I’m currently learning lot of new things...
 - 👯 I’m looking to collaborate on projects
-- 📫 How to reach me: <a href="mailto:Abhijeetkr.sci@gmail.com">Email</a>, <a href="http://linkedin.com/in/abhijeet-kumar-in/" target="_blank">LinkedIn</a></br>
+- 📫 How to reach me: <a href="mailto:Abhijeetkr.sci@gmail.com">Email</a>, <a href="https://www.linkedin.com/in/abhijeetkumar-in/" target="_blank">LinkedIn</a></br>
 
 
 #
