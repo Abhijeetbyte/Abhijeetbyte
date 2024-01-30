@@ -5,7 +5,7 @@
 **Abhijeetbyte/Abhijeetbyte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I'm currently working on something cool ! related to embedded system software and application specific software
+- 🔭 I'm currently working on something cool ! related to embedded system software and application specific softwares 
 - 🌱 I’m currently learning lot of new things..web development, application development for windows and software for portable devices 
 - 👯 I’m looking to collaborate on projects, open to work if you can adde value or want to learn along with me
 - 📫 How to reach me: <a href="mailto:Abhijeetkr.sci@gmail.com">Email</a>, <a href="https://www.linkedin.com/in/abhijeetkumar-in/" target="_blank">LinkedIn</a></br>
