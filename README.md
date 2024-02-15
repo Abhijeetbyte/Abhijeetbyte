@@ -1,17 +1,25 @@
 ### Hi there 👋
 :octocat: :computer: :rocket: ⚛️ :microscope: :telescope: 
 
+<br/>
+
+
 <!--
 **Abhijeetbyte/Abhijeetbyte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I'm currently working on something cool ! related to embedded system software and application specific softwares
- 
-- 🌱 I’m currently learning lot of new things..web development, application development for windows and software for portable devices
 
-- 👯 I’m looking to collaborate on projects, open to work if you can adde value or want to learn along with me
-  
-- 📫 How to reach me: <a href="mailto:Abhijeetkr.sci@gmail.com">Email</a>, <a href="https://www.linkedin.com/in/abhijeetkumar-in/" target="_blank">LinkedIn</a></br>
+🔭 **Current Focus:** Engaged in the development of embedded system software and specialized applications.
+
+🌱 **Continuous Learning:** Actively expanding expertise in web development, Windows application development, and software engineering for portable devices.
+
+🤝 **Open to Collaboration:** Seeking opportunities to collaborate on projects where I can contribute value and continue learning alongside motivated peers.
+
+
+
+In the realm of technology and innovation, crafting solutions that make a difference. Let's work together to create something creative !
+
+
 
 
 #
