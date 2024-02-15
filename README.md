@@ -14,6 +14,10 @@
 
 🤝 **Open to Collaboration:** Seeking opportunities to collaborate on projects where I can contribute value and continue learning alongside motivated peers.
 
+📫 **How to reach me:** [Email](mailto:Abhijeetkr.sci@gmail.com), [LinkedIn](https://www.linkedin.com/in/abhijeetkumar-in/)
+
+<br/>
+
 *In the realm of technology and innovation, crafting solutions that make a difference. Let's work together to create something creative*
 
 
