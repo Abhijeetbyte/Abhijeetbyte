@@ -8,9 +8,11 @@
 -->
 
 
-🔭 **Current Focus:** Engaged in the development of embedded system software and specialized applications.
+That looks great! Here's the refined version:
 
-🌱 **Continuous Learning:** Actively expanding expertise in Web development, Windows application development, and software engineering for Portable devices.
+🔭 **Current Focus:** Deeply involved in creating custom embedded system software and specialized applications, particularly for hardware-specific solutions.
+
+🌱 **Continuous Learning:** Continuously enhancing skills in developing software for portable devices (ASIC), desktop applications, and web development.
 
 🤝 **Open to Collaboration:** Seeking opportunities to collaborate on projects where I can contribute value and continue learning alongside motivated peers.
 
