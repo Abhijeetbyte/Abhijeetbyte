@@ -7,9 +7,6 @@
 **Abhijeetbyte/Abhijeetbyte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-
-That looks great! Here's the refined version:
-
 🔭 **Current Focus:** Deeply involved in creating custom embedded system software and specialized applications, particularly for hardware-specific solutions.
 
 🌱 **Continuous Learning:** Continuously enhancing skills in developing software for portable devices (ASIC), desktop applications, and web development.
