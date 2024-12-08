@@ -17,9 +17,6 @@
 
 <br/>
 
-*In the realm of technology and innovation, crafting solutions that make a difference. Let's work together to create something creative*
-
-
 
 
 #
